@@ -1,0 +1,6 @@
+{
+  "environment": "DEV",
+  "workspace_name": "ws_fabric_architect_lab_dev",
+  "git_branch": "dev",
+  "deployment_strategy": "automation_first"
+}
